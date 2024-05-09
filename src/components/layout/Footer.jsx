@@ -6,7 +6,7 @@ const Footer = () => {
 
     return (
         <footer className='py-4 border-t-2 border-[#332]'>
-            <p className='text-center'>Made by <span className='font-bold'>Elsayed Kewan</span></p>
+            <p className='text-center'>Made by <span className='font-bold'>Sarah Assib</span></p>
         </footer>
     )
 }
